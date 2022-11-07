@@ -1,0 +1,8 @@
+body {
+   background-color: blue;
+}
+
+strong {
+    font-weight: 300;
+    background-color: red;
+}
